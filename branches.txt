@@ -1,0 +1,8 @@
+* main                   33cc7a9 [origin/main] Merged Clean_Data and movie_FINAL.
+  remotes/origin/Finn    33cc7a9 Merged Clean_Data and movie_FINAL.
+  remotes/origin/HEAD    -> origin/main
+  remotes/origin/Jackson a0e167e Merge pull request #6 from endoplasmicosmic/main
+  remotes/origin/John    3cbc306 Edited branch John
+  remotes/origin/Parisha 531d8fa Merge pull request #3 from endoplasmicosmic/main
+  remotes/origin/Sanem   f6e112c Merge branch 'main' of github.com:endoplasmicosmic/Project1_MovieSuccessAnalysis
+  remotes/origin/main    33cc7a9 Merged Clean_Data and movie_FINAL.

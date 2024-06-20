@@ -1,0 +1,11 @@
+total 668
+drwxr-xr-x 1 Dwight 197121      0 Jun 19 13:08 .
+drwxr-xr-x 1 Dwight 197121      0 Jun 18 15:13 ..
+drwxr-xr-x 1 Dwight 197121      0 Jun 18 15:13 .git
+-rw-r--r-- 1 Dwight 197121   3268 Jun 18 15:13 .gitignore
+drwxr-xr-x 1 Dwight 197121      0 Jun 18 15:13 Presentation
+-rw-r--r-- 1 Dwight 197121  19743 Jun 18 15:13 README.md
+drwxr-xr-x 1 Dwight 197121      0 Jun 18 15:13 Resource
+-rw-r--r-- 1 Dwight 197121      0 Jun 19 13:08 list.txt
+-rw-r--r-- 1 Dwight 197121 637862 Jun 18 15:13 movie_FINAL.ipynb
+drwxr-xr-x 1 Dwight 197121      0 Jun 18 15:13 movie_analysis_visualizations

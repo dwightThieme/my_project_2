@@ -1,0 +1,79 @@
+     1	* 33cc7a9 - endoplasmicosmic, 2 days ago : Merged Clean_Data and movie_FINAL.
+     2	* c82a8f9 - endoplasmicosmic, 2 days ago : Deleted .DS_Store files
+     3	* b4125cd - endoplasmicosmic, 2 days ago : Ignored .DS_Store files
+     4	* 0368328 - endoplasmicosmic, 2 days ago : Updated ReadMe.
+     5	* 9026fab - endoplasmicosmic, 2 days ago : Readme1
+     6	* 071a6de - endoplasmicosmic, 2 days ago : Updated readme.
+     7	* 42bb75c - endoplazmicosmic, 2 days ago : Deleted .virtual_documents
+     8	* 43156b8 - endoplazmicosmic, 2 days ago : Added analysis to readme, and deleted files.
+     9	*   f7f1d68 - Sanem, 2 days ago : Merge pull request #8 from endoplasmicosmic/Sanem
+    10	[32m|[m[33m\[m  
+    11	[32m|[m *   f6e112c - endoplazmicosmic, 2 days ago : Merge branch 'main' of github.com:endoplasmicosmic/Project1_MovieSuccessAnalysis
+    12	[32m|[m [34m|[m[32m\[m  
+    13	[32m|[m [34m|[m[32m/[m  
+    14	[32m|[m[32m/[m[34m|[m   
+    15	* [34m|[m   5920998 - Parisha Gupta, 2 days ago : Merge pull request #7 from endoplasmicosmic/Jackson
+    16	[36m|[m[1;31m\[m [34m\[m  
+    17	[36m|[m * [34m\[m   a0e167e - Parisha Gupta, 2 days ago : Merge pull request #6 from endoplasmicosmic/main
+    18	[36m|[m [1;32m|[m[36m\[m [34m\[m  
+    19	[36m|[m [1;32m|[m[36m/[m [34m/[m  
+    20	[36m|[m[36m/[m[1;32m|[m [34m|[m   
+    21	* [1;32m|[m [34m|[m   e41cd24 - Parisha Gupta, 2 days ago : Merge pull request #5 from endoplasmicosmic/Parisha
+    22	[1;34m|[m[1;35m\[m [1;32m\[m [34m\[m  
+    23	[1;34m|[m * [1;32m\[m [34m\[m   531d8fa - Sanem, 3 days ago : Merge pull request #3 from endoplasmicosmic/main
+    24	[1;34m|[m [1;36m|[m[31m\[m [1;32m\[m [34m\[m  
+    25	* [1;36m|[m [31m|[m [1;32m|[m [34m|[m 1db44d3 - fbarffmann, 2 days ago : Updated ppt
+    26	* [1;36m|[m [31m|[m [1;32m|[m [34m|[m 0bd7023 - fbarffmann, 2 days ago : Updated ppt
+    27	* [1;36m|[m [31m|[m [1;32m|[m [34m|[m 3ab7e88 - fbarffmann, 2 days ago : Adding presentation ppt
+    28	[31m|[m [1;36m|[m [31m|[m [1;32m|[m * 3079309 - endoplazmicosmic, 2 days ago : Resolved conflict: .DS_Store
+    29	[31m|[m [1;36m|[m[31m_[m[31m|[m[31m_[m[1;32m|[m[31m/[m[33m|[m 
+    30	[31m|[m[31m/[m[1;36m|[m [31m|[m [1;32m|[m [33m|[m 
+    31	[31m|[m [1;36m|[m [31m|[m [1;32m|[m * e7c6d31 - endoplazmicosmic, 2 days ago : Adjust figure labels and add new visuals in movie_finn and movie_FINAL files
+    32	* [1;36m|[m [31m|[m [1;32m|[m [33m|[m da820d5 - endoplazmicosmic, 2 days ago : unnecessary files have been deleted.
+    33	* [1;36m|[m [31m|[m [1;32m|[m [33m|[m 0de3f64 - endoplazmicosmic, 2 days ago : Updated the gitignore
+    34	* [1;36m|[m [31m|[m [1;32m|[m [33m|[m 11d4d0e - endoplazmicosmic, 2 days ago : Ignored the .virtual_documents file.
+    35	* [1;36m|[m [31m|[m [1;32m|[m [33m|[m cae1a4e - endoplazmicosmic, 2 days ago : Runned the movie_FINAL
+    36	* [1;36m|[m [31m|[m [1;32m|[m [33m|[m 99bd34b - endoplazmicosmic, 2 days ago : Adjusted figure labels and added new visuals to the folder in movie_finn and movie_FINAL files
+    37	* [1;36m|[m [31m|[m [1;32m|[m [33m|[m   7a78f12 - endoplazmicosmic, 2 days ago : Merge branch 'Sanem' into main
+    38	[34m|[m[33m\[m [1;36m\[m [31m\[m [1;32m\[m [33m\[m  
+    39	[34m|[m [33m|[m [1;36m|[m[33m_[m[31m|[m[33m_[m[1;32m|[m[33m/[m  
+    40	[34m|[m [33m|[m[33m/[m[1;36m|[m [31m|[m [1;32m|[m   
+    41	[34m|[m * [1;36m|[m [31m|[m [1;32m|[m 262a82e - endoplazmicosmic, 2 days ago : Removed .virtual_documents and updated .gitignore
+    42	[34m|[m * [1;36m|[m [31m|[m [1;32m|[m 454813c - endoplazmicosmic, 2 days ago : Removed .virtual_documents and updated .gitignore
+    43	* [35m|[m [1;36m|[m [31m|[m [1;32m|[m 913e0d3 - fbarffmann, 2 days ago : Updating Analysis file
+    44	* [35m|[m [1;36m|[m [31m|[m [1;32m|[m 4ddc245 - endoplazmicosmic, 2 days ago : Resolved merge conflicts
+    45	[36m|[m[35m\[m[35m|[m [1;36m|[m [31m|[m [1;32m|[m 
+    46	[36m|[m * [1;36m|[m [31m|[m [1;32m|[m 2677b97 - endoplazmicosmic, 2 days ago : Adjusted figure labels and added new visuals to the folder
+    47	[36m|[m [31m|[m [1;36m|[m[31m/[m [1;32m/[m  
+    48	[36m|[m [31m|[m[31m/[m[1;36m|[m [1;32m|[m   
+    49	* [31m|[m [1;36m|[m [1;32m|[m   8ab8d76 - fbarffmann, 3 days ago : Merge branch 'main' into Finn Merging updates from main to Finn#
+    50	[1;32m|[m[1;33m\[m [31m\[m [1;36m\[m [1;32m\[m  
+    51	[1;32m|[m * [31m|[m [1;36m|[m [1;32m|[m 3cbc306 - John McNamara, 3 days ago : Edited branch John
+    52	[1;32m|[m [31m|[m[31m/[m [1;36m/[m [1;32m/[m  
+    53	* [31m/[m [1;36m/[m [1;32m/[m 04b0eb8 - fbarffmann, 3 days ago : Updated Analysis and README
+    54	[31m|[m[31m/[m [1;36m/[m [1;32m/[m  
+    55	* [1;36m|[m [1;32m|[m 9942539 - fbarffmann, 3 days ago : Updated README
+    56	* [1;36m|[m [1;32m|[m 91936b9 - fbarffmann, 3 days ago : Added limitations and additional analysis pieces
+    57	* [1;36m|[m [1;32m|[m e12b8bb - fbarffmann, 3 days ago : Fleshed out process, analysis, and conclusion for analysis and updated ReadME with better-worded hypotheses
+    58	* [1;36m|[m [1;32m|[m 7c3d660 - fbarffmann, 4 days ago : Created FINAL notebook with everyone's code and added movie_finn
+    59	* [1;36m|[m [1;32m|[m b4a6864 - fbarffmann, 4 days ago : Merge pull request #2 from endoplasmicosmic/Parisha
+    60	[1;34m|[m[1;36m\[m[1;36m|[m [1;32m|[m 
+    61	[1;34m|[m * [1;32m|[m 67a2f33 - Parisha Gupta, 4 days ago : Adding analysis document
+    62	[1;34m|[m * [1;32m|[m c3ae928 - Parisha Gupta, 4 days ago : Additional Stats calcs - Parisha
+    63	* [1;35m|[m [1;32m|[m b471141 - Sanem, 4 days ago : Merge pull request #1 from endoplasmicosmic/Parisha
+    64	[1;36m|[m[1;35m\[m[1;35m|[m [1;32m|[m 
+    65	[1;36m|[m * [1;32m|[m 21794c0 - Parisha Gupta, 4 days ago : Final visual and analysis push - Parisha
+    66	[1;36m|[m * [1;32m|[m 3c9d02a - Parisha Gupta, 4 days ago : Final visual and analysis push - Parisha
+    67	[1;36m|[m * [1;32m|[m c485c3b - Parisha Gupta, 4 days ago : Final visual and analysis submission
+    68	[1;36m|[m[1;36m/[m [1;32m/[m  
+    69	* [1;32m|[m 02751f6 - endoplazmicosmic, 4 days ago : Updated visualizations and readme file.
+    70	* [1;32m|[m 0c20372 - endoplazmicosmic, 4 days ago : Updated Jackson files name.
+    71	* [1;32m|[m 7645dfa - endoplazmicosmic, 4 days ago : Update the Readme file.
+    72	[1;32m|[m[1;32m/[m  
+    73	* e38bed6 - jwhited02, 4 days ago : Add visuals and data for Jackson
+    74	* 0cb5847 - endoplazmicosmic, 4 days ago : Update the name of CleanMerge_Data to Cleaned_Data
+    75	* 85b1ab0 - endoplazmicosmic, 4 days ago : Update the name of CleanMerge_Data to Cleaned_Data
+    76	* 4fa3fb5 - endoplazmicosmic, 4 days ago : Update the name of CleanMergeData to MovieData
+    77	* aa4a83e - endoplazmicosmic, 4 days ago : Added charts and data for Actor and MPAA Rating vs. Worldwide Sales analysis; created folder for visuals
+    78	* 37f36d4 - endoplazmicosmic, 4 days ago : Added CSV files, folder for visuals, and updated README file.
+    79	* 31d646c - Sanem, 4 days ago : Initial commit
